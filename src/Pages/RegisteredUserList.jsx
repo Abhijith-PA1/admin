@@ -9,8 +9,8 @@ function RegisteredUserList() {
         <div>
           <MenuBar />
         </div>
-        <div className="bg-slate-100 w-screen h-screen p-7">
-          <div className="flex justify-between">
+        <div className="bg-slate-100 w-screen h-screen p-7 overflow-auto">
+          <div className="flex justify-between flex-wrap">
             <h1 className="font-bold">RegisteredUserList</h1>
             <div className="bg-white rounded-xl">
               <i className="fa-solid fa-magnifying-glass fa-xl m-2 "></i>
@@ -50,7 +50,7 @@ function RegisteredUserList() {
                   : null}
               </tbody>
             </table>
-            <div className="flex justify-between">
+            <div className="flex justify-between flex-wrap">
               <p>10 out of 5000 people said</p>
               <div className="join">
                 <button className="join-item btn">«</button>
