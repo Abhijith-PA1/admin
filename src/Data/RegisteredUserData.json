@@ -1,0 +1,92 @@
+[
+    {
+        "no": "01.",
+        "nickname": "ゆうと",
+        "email": "example1@example.com",
+        "DoB": "1992年12月",
+        "gender": "男性",
+        "PoR": "東京都",
+        "regdate": "2024年01月12日"
+    },
+    {
+        "no": "02.",
+        "nickname": "ニックネーム最大12文字",
+        "email": "user234@example.net",
+        "DoB": "1987年",
+        "gender": "女性",
+        "PoR": "東京都",
+        "regdate": "2024年01月12日"
+    },
+    {
+        "no": "03.",
+        "nickname": "たかし",
+        "email": "takashi1988@example.jp",
+        "DoB": "1988年05月",
+        "gender": "男性",
+        "PoR": "大阪府",
+        "regdate": "2024年02月01日"
+    },
+    {
+        "no": "04.",
+        "nickname": "さくら",
+        "email": "sakura_chan@example.com",
+        "DoB": "1995年03月",
+        "gender": "女性",
+        "PoR": "京都府",
+        "regdate": "2024年03月22日"
+    },
+    {
+        "no": "05.",
+        "nickname": "けんじ",
+        "email": "kenji_k@example.org",
+        "DoB": "1990年10月",
+        "gender": "男性",
+        "PoR": "神奈川県",
+        "regdate": "2024年04月10日"
+    },
+    {
+        "no": "06.",
+        "nickname": "あやの",
+        "email": "ayano_88@example.com",
+        "DoB": "1988年08月",
+        "gender": "女性",
+        "PoR": "兵庫県",
+        "regdate": "2024年05月03日"
+    },
+    {
+        "no": "07.",
+        "nickname": "まこと",
+        "email": "makoto77@example.net",
+        "DoB": "1985年",
+        "gender": "男性",
+        "PoR": "北海道",
+        "regdate": "2024年05月15日"
+    },
+    {
+        "no": "08.",
+        "nickname": "りな",
+        "email": "rina123@example.com",
+        "DoB": "1993年06月",
+        "gender": "女性",
+        "PoR": "福岡県",
+        "regdate": "2024年06月01日"
+    },
+    {
+        "no": "09.",
+        "nickname": "しょう",
+        "email": "sho.sho@example.jp",
+        "DoB": "1991年11月",
+        "gender": "男性",
+        "PoR": "愛知県",
+        "regdate": "2024年06月20日"
+    },
+    {
+        "no": "10.",
+        "nickname": "みき",
+        "email": "miki_miki@example.net",
+        "DoB": "1996年",
+        "gender": "女性",
+        "PoR": "千葉県",
+        "regdate": "2024年07月05日"
+    }
+]
